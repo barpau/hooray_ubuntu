@@ -1,4 +1,4 @@
-# USAGE
+# UaaaaSAGE
 # python neural_style_transfer.py --image images/baden_baden.jpg --model models/instance_norm/starry_night.t7
 
 # import the necessary packages
